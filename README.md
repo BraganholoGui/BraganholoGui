@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BraganholoGui
-- 👀 I’m interested in web development and java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web development and python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a business.
 - 📫 How to reach me ...
 
