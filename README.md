@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BraganholoGui
-- 👀 I’m interested in web development and python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a business.
-- 📫 How to reach me ...
+Hey 👋�🌱
+
+My name is Guilherme Braganholo, web developer, CSS and front-end infrastructure enthusiast.
+
+Nice to make your acquaintance 😁.
 
 <!---
 BraganholoGui/BraganholoGui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
