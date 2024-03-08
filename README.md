@@ -1,7 +1,6 @@
 Hey 👋�🌱
 
-My name is Guilherme Braganholo, web developer, CSS and front-end infrastructure enthusiast.
-Besides that, I'm learning back-end, coding with NodeJs and Python.
+My name is Guilherme Braganholo, web developer, back-end and front-end infrastructure enthusiast.
 
 Nice to make your acquaintance 😁.
 
