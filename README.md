@@ -1,6 +1,6 @@
 Hey 👋�🌱
 
-My name is Guilherme Braganholo, web developer, back-end and front-end infrastructure enthusiast.
+My name is Guilherme Braganholo,software engineer, back-end and front-end infrastructure enthusiast.
 
 Nice to make your acquaintance 😁.
 
